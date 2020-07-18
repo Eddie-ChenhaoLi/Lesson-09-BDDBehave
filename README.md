@@ -97,4 +97,4 @@ Took 0m0.006s
 ```
 
 ### 5. Exercise
-1.Write a scenario 
+1.According to the feature file 'check.feature', complete the step file 'check.py' and pass the tests.
